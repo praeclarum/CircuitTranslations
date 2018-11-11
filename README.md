@@ -29,3 +29,20 @@ Thank you so much for your help!
 
 (Sorted by app usage.)
 
+
+
+## Style Guide
+
+### Keep things short
+
+Most of the text is presented in dialog boxes on phones so keeping
+translations short is preferable to being verbose.
+
+Acronymns, initialisms, and common abbreviations are all welcome so long
+as they would be recognized by beginners in electronics.
+
+### Prefer spaces over hyphenations
+
+If compound words can either be hyphenated or combined with space,
+prefer space. This is to help the rendering engine layout text properly.
+
