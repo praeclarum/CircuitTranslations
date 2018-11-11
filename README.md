@@ -3,12 +3,14 @@
 [iCircuit](http://icircuitapp.com) is used all around the world in a variety
 of languages.
 
-I would like to ask for your help translating it to as many languages as
-possible. If you spot an error in a translation, please open a pull request with the correction - you will be helping many people and I'll be sure to thank you in the app!
+I would like to ask for your help translating it to
+as many of languages as possible.
+
+If you spot an error in a translation, please open a pull request with the correction - you will be helping many people and I'll be sure to thank you in the app!
 
 Please also feel free to start a new language translation.
 
-Thank you so much for your help!
+Thank you very much for your help!
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
 
