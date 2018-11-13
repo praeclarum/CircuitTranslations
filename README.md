@@ -4,7 +4,7 @@
 of languages.
 
 I would like to ask for your help translating it to
-as many of languages as possible.
+as many of these languages as possible.
 
 If you spot an error in a translation, please open a pull request with the correction - you will be helping many people and I'll be sure to thank you in the app!
 
@@ -48,3 +48,15 @@ as they would be recognized by beginners in electronics.
 If compound words can either be hyphenated or combined with space,
 prefer space. This is to help the rendering engine layout text properly.
 
+
+
+## Machine Auto-translation
+
+The script `mtranslate.fsx` is used to automatically translate missing
+words and was used to build the initial translations.
+
+It can be run with the following command:
+
+```bash
+fsharpi --lib:`echo ~`/.nuget/packages/newtonsoft.json/11.0.2/lib/net45 --reference:Newtonsoft.Json.dll --exec mtranslate.fsx
+```
