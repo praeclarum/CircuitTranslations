@@ -10,7 +10,7 @@
 "Amplitude (V)" = "Амплитуда (V)";
 "Analog" = "Аналоговые";
 "Analog Switch" = "Аналоговый выключатель";
-"Angle to Sun (deg)" = "Угол до солнца (град)";
+"Angle to Sun (deg)" = "Угол до солнца (°)";
 "Anode" = "Анод";
 "Appearance" = "Внешний вид";
 "Arduino" = "Arduino";
@@ -171,7 +171,7 @@
 "Open Circuit Voltage" = "Напряжение разомкнутой цепи";
 "Orientation" = "Ориентации";
 "Peak Amplitude (V)" = "Пиковая амплитуда (V)";
-"Phase Offset (deg)" = "Смещение фазы (град)";
+"Phase Offset (deg)" = "Смещение фазы (°)";
 "Photoresistor" = "Фоторезистор";
 "Pin Number" = "Контактный номер";
 "Polarized" = "Поляризованные";

@@ -10,7 +10,7 @@
 "Amplitude (V)" = "Ampiezza (V)";
 "Analog" = "Analogico";
 "Analog Switch" = "Interruttore analogico";
-"Angle to Sun (deg)" = "Angolo al sole (deg)";
+"Angle to Sun (deg)" = "Angolo al sole (°)";
 "Anode" = "Anodo";
 "Appearance" = "Aspetto";
 "Arduino" = "Arduino";
@@ -171,7 +171,7 @@
 "Open Circuit Voltage" = "Tensione a circuito aperto";
 "Orientation" = "Orientamento";
 "Peak Amplitude (V)" = "Ampiezza di picco (V)";
-"Phase Offset (deg)" = "Offset di fase (deg)";
+"Phase Offset (deg)" = "Offset di fase (°)";
 "Photoresistor" = "Fotoresistore";
 "Pin Number" = "Numero PIN";
 "Polarized" = "Polarizzato";
