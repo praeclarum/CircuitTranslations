@@ -1,4 +1,4 @@
-﻿"AC" = "AC";
+"AC" = "AC";
 "AC Source" = "Wechselstromquelle";
 "ADC" = "ADW";
 "AM" = "AM";
@@ -209,9 +209,9 @@
 "Show Current" = "Strom Anzeigen";
 "Show Grid" = "Raster Anzeigen";
 "Show Ground" = "Erdspannung Anzeigen";
-"Show Value" = "Wert anzeigen";
-"Show Values" = "Werte anzeigen";
-"Show Voltage" = "Spannung anzeigen";
+"Show Value" = "Wert Anzeigen";
+"Show Values" = "Werte Anzeigen";
+"Show Voltage" = "Spannung Anzeigen";
 "Shunt Capacitance (F)" = "Shunt-Kapazität (F)";
 "Signal Frequency (Hz)" = "Signalfrequenz (Hz)";
 "Silicon" = "Silizium";
