@@ -1,9 +1,9 @@
 ﻿"AC" = "交流电";
 "AC Source" = "交流电源";
 "ADC" = "模数转换器";
-"AM" = "上午";
-"AM Antenna" = "AM天线";
-"AND Gate" = "AND门";
+"AM" = "调幅";
+"AM Antenna" = "调幅天线";
+"AND Gate" = "与门";
 "Accelerometer" = "加速度计";
 "Active" = "积极";
 "Amplifier" = "放大器";
