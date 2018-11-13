@@ -2,9 +2,10 @@
 "AC Source" = "Wechselstromquelle";
 "ADC" = "ADW";
 "AM" = "AM";
-"AM Antenna" = "AM-Antenne";
+/* in that context AM is "Mittelwelle" in German */
+"AM Antenna" = "MW-Antenne";
 "AND Gate" = "AND Gatter";
-"Accelerometer" = "Beschleunigungsmesser";
+"Accelerometer" = "Beschleunigungssensor";
 "Active" = "Aktiv";
 "Amplifier" = "Verstärker";
 "Amplitude (V)" = "Amplitude (V)";
@@ -14,10 +15,11 @@
 "Anode" = "Anode";
 "Appearance" = "Aussehen";
 "Arduino" = "Arduino";
-"Auto Add Selected" = "Automatisch Hinzugefügt";
+"Auto Add Selected" = "Auswahl autom. hinzufügen";
 "Auto Duration" = "Dauer Automatisch Eingestellt";
 "Auto Values" = "Auto Eingestellter Wertebereich";
 "Automatic Bandwidth" = "Automatische Bandbreite";
+/* could you elaborate on "autowire"? */
 "Autowire" = "Auto-Draht";
 "BCD to 7-Segment Decoder" = "BCD zum 7-Segment-Decoder";
 "BJT Transistor" = "BJT Transistor";
@@ -30,8 +32,8 @@
 "Bits" = "Bits";
 "Blue" = "Blau";
 "Blue (%)" = "Blau (%)";
-"Bold" = "Fett Gedruckt";
-"Bubble" = "Punkt";
+"Bold" = "Fett";
+"Bubble" = "Blase";
 "Buzzer" = "Summer";
 "Capacitance" = "Kapazität";
 "Capacitance (F)" = "Kapazität (F)";
@@ -63,9 +65,9 @@
 "DAC" = "DAW";
 "DC" = "DC";
 "DC Current Source" = "Gleichstromquelle";
-"DC Motor" = "DC-Motor";
+"DC Motor" = "Gleichstrom-Motor";
 "DC Offset" = "DC-Versatz";
-"DC Rail" = "DC-Schiene";
+"DC Rail" = "Gleichstromschiene";
 "DC Source" = "Gleichstromquelle";
 "Dark Mode" = "Dunkler Modus";
 "Datasheet" = "Datenblatt";
@@ -79,13 +81,13 @@
 "Digitized Accelerometer" = "Digitalisierter Beschleunigungsmesser";
 "Diode" = "Diode";
 "Double-throw (DT)" = "Doppelwurf (DT)";
-"Draw Border" = "Grenze zeichnen";
+"Draw Border" = "Rahmen zeichnen";
 "Duration (s)" = "Dauer (s)";
 "Duty Cycle (%)" = "Auslastungsgrad (%)";
 "Edit" = "Bearbeiten";
 "Electron Direction" = "Elektronen";
 "Email Support" = "Email Unterstützung";
-"Enable Anonymous Analytics" = "Aktivieren Sie Anonyme Analysen";
+"Enable Anonymous Analytics" = "Aktivieren Sie anonyme Analysen";
 "End" = "Ende";
 "Export" = "Exportieren";
 "Expression" = "Ausdruck";
@@ -111,7 +113,7 @@
 "Height" = "Höhe";
 "Holding Current (A)" = "Haltestrom (A)";
 "Horizontal" = "Horizontal";
-"I promise to read all your feedback but I can't guarantee a response to every email. Sorry!" = "Ich verspreche, Ihr gesamtes Feedback zu lesen, kann jedoch keine Antwort auf jede E-Mail garantieren. Es tut uns leid!";
+"I promise to read all your feedback but I can't guarantee a response to every email. Sorry!" = "Ich verspreche, Ihr gesamtes Feedback zu lesen, kann jedoch aus Zeitgründen keine Antwort auf jede E-Mail garantieren.";
 "IC" = "IC";
 "IEC Symbols" = "IEC-Symbole";
 "In order to improve iCircuit, anonymous usage data can be collected and sent to the developer. This data includes which elements you add, which properties you set (not including values), and what errors occur. To opt out of this, tap the option to turn it off (unchecked)." = "Um iCircuit zu verbessern, können anonyme Nutzungsdaten erfasst und an den Entwickler gesendet werden. Zu diesen Daten gehört, welche Elemente Sie hinzufügen, welche Eigenschaften Sie festlegen (ohne Werte) und welche Fehler auftreten. Um dies zu deaktivieren, tippen Sie auf die Option, um sie auszuschalten (nicht markiert).";
@@ -189,9 +191,9 @@
 "Resistance" = "Widerstand";
 "Resistance (Ω)" = "Widerstand (Ω)";
 "Resistor" = "Widerstand";
-"Restore Examples" = "Wiederherstellungsbeispiele";
+"Restore Examples" = "Beispiele wiederherstellen";
 "Reverse Polarity" = "Umgekehrte Polarität";
-"Review on the App Store" = "Überprüfen Sie im App Store";
+"Review on the App Store" = "Im App-Store bewerten";
 "SCR" = "SCR";
 "SPDT Analog Switch" = "SPDT-Analogschalter";
 "SPDT Switch" = "SPDT-Schalter";
@@ -207,9 +209,9 @@
 "Show Current" = "Strom Anzeigen";
 "Show Grid" = "Raster Anzeigen";
 "Show Ground" = "Erdspannung Anzeigen";
-"Show Value" = "Wert Anzeigen";
-"Show Values" = "Werte Anzeigen";
-"Show Voltage" = "Spannung Anzeigen";
+"Show Value" = "Wert anzeigen";
+"Show Values" = "Werte anzeigen";
+"Show Voltage" = "Spannung anzeigen";
 "Shunt Capacitance (F)" = "Shunt-Kapazität (F)";
 "Signal Frequency (Hz)" = "Signalfrequenz (Hz)";
 "Silicon" = "Silizium";
@@ -241,6 +243,7 @@
 "Transistor" = "Transistor";
 "Triangle" = "Dreieck";
 "Trigger Current (A)" = "Auslösestrom (A)";
+/* don't know iCircuit, here "Typ" may also be a valid translation */
 "Type" = "Art";
 "Value" = "Wert";
 "Vertical" = "Vertikale";
@@ -253,6 +256,7 @@
 "WikipediaUrl" = "Wikipedia";
 "Wire" = "Kabel";
 "XOR Gate" = "XOR Gatter";
+/* if this is the text after a review, "Herzlichen Dank für Ihre Bewertung" would be better */
 "Your review is very much appreciated!" = "Ihre Bewertung wird sehr geschätzt!";
 "Zener Diode" = "Zener-Diode";
 "Zener Voltage @ 5mA" = "Zener-Spannung @ 5mA";
