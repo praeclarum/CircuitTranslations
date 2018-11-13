@@ -1,6 +1,6 @@
-﻿"AC" = "Ac";
+﻿"AC" = "AC";
 "AC Source" = "Источник ПЕРЕМЕНного тока";
-"ADC" = "Adc";
+"ADC" = "ADC";
 "AM" = "AM";
 "AM Antenna" = "AM антенна";
 "AND Gate" = "И ворота";
@@ -51,7 +51,7 @@
 "Color" = "Цвет";
 "Colpitts Oscillator" = "Колпитц осциллятор";
 "Conventional Direction" = "Обычное направление";
-"Cooldown Time (s)" = "Время восстановления (с)";
+"Cooldown Time (s)" = "Время восстановления (ы)";
 "Counter" = "Счетчик";
 "Coupling Coefficient (%)" = "Коэффициент сцепления (%)";
 "Crystal Oscillator" = "Кварцевый генератор";
@@ -60,8 +60,8 @@
 "Current Dots" = "Текущие точки";
 "Current Rating (A)" = "Текущий рейтинг (A)";
 "D Flip-flop" = "D флип-флоп";
-"DAC" = "Dac";
-"DC" = "Dc";
+"DAC" = "DAC";
+"DC" = "DC";
 "DC Current Source" = "Источник постоянного тока";
 "DC Motor" = "Двигатель постоянного тока";
 "DC Offset" = "Смещение постоянного тока";
@@ -112,7 +112,7 @@
 "Holding Current (A)" = "Удержание тока (A)";
 "Horizontal" = "Горизонтальной";
 "I promise to read all your feedback but I can't guarantee a response to every email. Sorry!" = "Я обещаю читать все ваши отзывы, но я не могу гарантировать ответ на каждое письмо. Извините!";
-"IC" = "Ic";
+"IC" = "IC";
 "IEC Symbols" = "Символы IEC";
 "In order to improve iCircuit, anonymous usage data can be collected and sent to the developer. This data includes which elements you add, which properties you set (not including values), and what errors occur. To opt out of this, tap the option to turn it off (unchecked)." = "Для того, чтобы улучшить ИЦиркуит, анонимные данные об использовании могут быть собраны и отправлены разработчику. Эти данные включают элементы, которые вы добавляете, какие свойства вы задаете (не включая значения), и какие ошибки происходят. Чтобы отказаться от этого, коснитесь параметра, чтобы выключить его (флажок не выбран).";
 "Inductance" = "Индуктивность";
@@ -149,7 +149,7 @@
 "Monospace" = "Monospace";
 "Motion Capacitance (F)" = "Емкость движения (F)";
 "NAND Gate" = "NAND ворота";
-"NOR Gate" = "Нор ворота";
+"NOR Gate" = "NOR ворота";
 "Name" = "Имя";
 "No power (VIN)" = "Нет питания (VIN)";
 "Nominal Power" = "Номинальная мощность";
@@ -192,7 +192,7 @@
 "Restore Examples" = "Примеры восстановления";
 "Reverse Polarity" = "Обратная полярность";
 "Review on the App Store" = "Обзор в App Store";
-"SCR" = "Scr";
+"SCR" = "SCR";
 "SPDT Analog Switch" = "Аналоговый выключатель";
 "SPDT Switch" = "Переключатель одноПОЛЮСный";
 "SPST Push Switch" = "SPST кнопочный выключатель";
@@ -247,7 +247,7 @@
 "Voltage" = "Напряжение";
 "Voltage @ 1g" = "Напряжение @ 1g";
 "Voltage Color" = "Цвет напряжения";
-"Warmup Time (s)" = "Прогрева время (ей)";
+"Warmup Time (s)" = "Прогрева время (ы)";
 "Waveform" = "Сигнала";
 "Width" = "Ширина";
 "WikipediaUrl" = "Википедиаурл";

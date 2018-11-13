@@ -1,9 +1,9 @@
-﻿"AC" = "Ac";
+﻿"AC" = "AC";
 "AC Source" = "Fonte AC";
-"ADC" = "Adc";
-"AM" = "SONO";
+"ADC" = "ADC";
+"AM" = "AM";
 "AM Antenna" = "Antenna AM";
-"AND Gate" = "E Gate";
+"AND Gate" = "AND Gate";
 "Accelerometer" = "Accelerometro";
 "Active" = "Attivo";
 "Amplifier" = "Amplificatore";
@@ -60,8 +60,8 @@
 "Current Dots" = "Punti correnti";
 "Current Rating (A)" = "Valutazione corrente (A)";
 "D Flip-flop" = "D Flip-flop";
-"DAC" = "Dac";
-"DC" = "Dc";
+"DAC" = "DAC";
+"DC" = "CC";
 "DC Current Source" = "Sorgente corrente CC";
 "DC Motor" = "Motore CC";
 "DC Offset" = "Offset CC";
@@ -80,7 +80,7 @@
 "Diode" = "Diodo";
 "Double-throw (DT)" = "Doppio tiro (DT)";
 "Draw Border" = "Disegna bordo";
-"Duration (s)" = "Durata (i)";
+"Duration (s)" = "Durata (s)";
 "Duty Cycle (%)" = "Duty Cycle (%)";
 "Edit" = "Modifica";
 "Electron Direction" = "Direzione elettronica";
@@ -89,12 +89,12 @@
 "End" = "Fine";
 "Export" = "Esportazione";
 "Expression" = "Espressione";
-"FM" = "Fm";
+"FM" = "FM";
 "FM Antenna" = "Antenna FM";
 "Flip X" = "Flip X";
 "Flip Y" = "Flip Y";
 "Flipped" = "Capovolto";
-"ForwardVoltage" = "ForwardVoltage";
+"ForwardVoltage" = "Tensione FWD";
 "Free Running Current" = "Corrente di funzionamento libera";
 "Free Running RPM" = "GIRI liberi di funzionamento";
 "Frequency (Hz)" = "Frequenza (Hz)";
@@ -112,7 +112,7 @@
 "Holding Current (A)" = "Corrente di mantenimento (A)";
 "Horizontal" = "Orizzontale";
 "I promise to read all your feedback but I can't guarantee a response to every email. Sorry!" = "Prometto di leggere tutti i vostri commenti, ma non posso garantire una risposta ad ogni e-mail. Siamo spiacenti!";
-"IC" = "Ic";
+"IC" = "IC";
 "IEC Symbols" = "Simboli IEC";
 "In order to improve iCircuit, anonymous usage data can be collected and sent to the developer. This data includes which elements you add, which properties you set (not including values), and what errors occur. To opt out of this, tap the option to turn it off (unchecked)." = "Al fine di migliorare iCircuit, i dati di utilizzo anonimo possono essere raccolti e inviati allo sviluppatore. Questi dati includono gli elementi aggiunti, le proprietà impostate (esclusi i valori) e gli errori che si verificano. Per escluderlo, tocca l'opzione per disattivarla (deselezionata).";
 "Inductance" = "Induttanza";
@@ -127,7 +127,7 @@
 "Lamp" = "Lampada";
 "Led" = "Led";
 "Library Filter" = "Filtro libreria";
-"Light (lux)" = "Luce (LUX)";
+"Light (lux)" = "Luce (lux)";
 "Light Mode" = "Modalità luce";
 "Line Over" = "Linea sopra";
 "Logarithmic" = "Logaritmica";
@@ -173,7 +173,7 @@
 "Peak Amplitude (V)" = "Ampiezza di picco (V)";
 "Phase Offset (deg)" = "Offset di fase (°)";
 "Photoresistor" = "Fotoresistore";
-"Pin Number" = "Numero PIN";
+"Pin Number" = "Numero Pin";
 "Polarized" = "Polarizzato";
 "Port" = "Porta";
 "Ports" = "Porte";
@@ -214,7 +214,7 @@
 "Signal Frequency (Hz)" = "Frequenza del segnale (Hz)";
 "Silicon" = "Silicio";
 "Size" = "Dimensione";
-"Slew Rate (V/ns)" = "Velocità di rotazione (V/NS)";
+"Slew Rate (V/ns)" = "Velocità di rotazione (V/ns)";
 "Solar Cell" = "Cella solare";
 "Sources" = "Fonti";
 "Speaker" = "Madrelingua";

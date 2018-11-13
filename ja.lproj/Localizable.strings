@@ -1,6 +1,6 @@
-﻿"AC" = "Ac";
+﻿"AC" = "AC";
 "AC Source" = "AC 電源";
-"ADC" = "Adc";
+"ADC" = "ADC";
 "AM" = "午前";
 "AM Antenna" = "AM アンテナ";
 "AND Gate" = "とゲート";
@@ -60,8 +60,8 @@
 "Current Dots" = "現在のドット";
 "Current Rating (A)" = "定格電流 (A)";
 "D Flip-flop" = "D フリップフロップ";
-"DAC" = "Dac";
-"DC" = "Dc";
+"DAC" = "DAC";
+"DC" = "直流";
 "DC Current Source" = "直流電流源";
 "DC Motor" = "直流電動機";
 "DC Offset" = "直流オフセット";
@@ -125,7 +125,7 @@
 "LED" = "Led";
 "LM317 Voltage Regulator" = "LM317 電圧レギュレータ";
 "Lamp" = "ランプ";
-"Led" = "Led";
+"Led" = "LED";
 "Library Filter" = "ライブラリフィルタ";
 "Light (lux)" = "ライト (ルクス)";
 "Light Mode" = "ライトモード";
