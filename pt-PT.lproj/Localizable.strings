@@ -227,6 +227,7 @@
 "Shunt Capacitance (F)" = "Capacitância shunt (F)";
 "Signal Frequency (Hz)" = "Freqüência do sinal (Hz)";
 "Silicon" = "Silício";
+"Singular matrix!" = "Matriz singular!";
 "Size" = "Tamanho";
 "Slew Rate (V/ns)" = "Taxa de Slew (V/ns)";
 "Solar Cell" = "Célula solar";
@@ -271,6 +272,7 @@
 "Width" = "Largura";
 "WikipediaUrl" = "Wikipedia";
 "Wire" = "Fio";
+"Wire loop with no resistance!" = "Loop de arame sem resistência!";
 "XOR Gate" = "Porta XOR";
 "Your review is very much appreciated!" = "Sua revisão é apreciada muito!";
 "Zener Diode" = "Diodo Zener";

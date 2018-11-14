@@ -227,6 +227,7 @@
 "Shunt Capacitance (F)" = "Шунтовая ёмкость (F)";
 "Signal Frequency (Hz)" = "Частота сигнала (Гц)";
 "Silicon" = "Кремний";
+"Singular matrix!" = "Сингулярная матрица!";
 "Size" = "Размер";
 "Slew Rate (V/ns)" = "Скорость нарастания (В/НС)";
 "Solar Cell" = "Солнечная батарея";
@@ -271,6 +272,7 @@
 "Width" = "Ширина";
 "WikipediaUrl" = "Ссылка в Википедии";
 "Wire" = "Провод";
+"Wire loop with no resistance!" = "Проволочная петля без сопротивления!";
 "XOR Gate" = "XOR вентил";
 "Your review is very much appreciated!" = "Ваш отзыв очень ценится!";
 "Zener Diode" = "Диоды стабилизации";

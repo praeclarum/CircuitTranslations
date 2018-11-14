@@ -24,8 +24,8 @@ let langs = [
     { Name = "Japanese"; Microsoft = "ja"; Apple = "ja" }
     { Name = "Russian"; Microsoft = "ru"; Apple = "ru" }
     { Name = "Spanish"; Microsoft = "es"; Apple = "es" }
-    { Name = "Portuguese (Brazil)"; Microsoft = "pt-BR"; Apple = "pt-BR" }
-    { Name = "Portuguese (Portugal)"; Microsoft = "pt-PT"; Apple = "pt-PT" }
+    { Name = "Portuguese (Brazil)"; Microsoft = "pt"; Apple = "pt-BR" }
+    { Name = "Portuguese (Portugal)"; Microsoft = "pt"; Apple = "pt-PT" }
     ]
 
 type TranslationReq = { Text : string }

@@ -227,6 +227,7 @@
 "Shunt Capacitance (F)" = "并联电容 (F)";
 "Signal Frequency (Hz)" = "信号频率 (Hz)";
 "Silicon" = "硅";
+"Singular matrix!" = "奇异矩阵!";
 "Size" = "大小";
 "Slew Rate (V/ns)" = "回转率 (V/ns)";
 "Solar Cell" = "太阳能电池";
@@ -271,6 +272,7 @@
 "Width" = "宽度";
 "WikipediaUrl" = "维基百科";
 "Wire" = "导线";
+"Wire loop with no resistance!" = "没有电阻的电线环路!";
 "XOR Gate" = "XOR门";
 "Your review is very much appreciated!" = "非常感谢您的评论!";
 "Zener Diode" = "齐纳二极管";

@@ -227,6 +227,7 @@
 "Shunt Capacitance (F)" = "シャント容量 (F)";
 "Signal Frequency (Hz)" = "信号周波数 (Hz)";
 "Silicon" = "シリコン";
+"Singular matrix!" = "特異行列!";
 "Size" = "サイズ";
 "Slew Rate (V/ns)" = "スルーレート (V/ns)";
 "Solar Cell" = "太陽電池";
@@ -271,6 +272,7 @@
 "Width" = "幅";
 "WikipediaUrl" = "WikipediaUrl";
 "Wire" = "ワイヤー";
+"Wire loop with no resistance!" = "抵抗のないワイヤーループ!";
 "XOR Gate" = "XOR ゲート";
 "Your review is very much appreciated!" = "あなたのレビューは非常に高く評価されます!";
 "Zener Diode" = "定ダイオード";

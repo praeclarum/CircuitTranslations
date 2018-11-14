@@ -227,6 +227,7 @@
 "Shunt Capacitance (F)" = "Shunt Capacitance (F)";
 "Signal Frequency (Hz)" = "Signal Frequency (Hz)";
 "Silicon" = "Silicon";
+"Singular matrix!" = "Singular matrix!";
 "Size" = "Size";
 "Slew Rate (V/ns)" = "Slew Rate (V/ns)";
 "Solar Cell" = "Solar Cell";
@@ -271,6 +272,7 @@
 "Width" = "Width";
 "WikipediaUrl" = "Wikipedia";
 "Wire" = "Wire";
+"Wire loop with no resistance!" = "Wire loop with no resistance!";
 "XOR Gate" = "XOR Gate";
 "Your review is very much appreciated!" = "Your review is very much appreciated!";
 "Zener Diode" = "Zener Diode";
