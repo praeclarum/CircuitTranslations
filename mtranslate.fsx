@@ -16,8 +16,8 @@ type Language = { Name : string; Microsoft : string; Apple : string }
 
 let langs = [
     { Name = "English"; Microsoft = "en"; Apple = "Base" }
-    { Name = "Chinese Simplified"; Microsoft = "zh-Hans"; Apple = "zh" }
-    //{ Name = "Chinese Traditional"; Microsoft = "zh-Hant"; Apple = "zh" }
+    { Name = "Chinese Simplified"; Microsoft = "zh-Hans"; Apple = "zh-Hans" }
+    { Name = "Chinese Traditional"; Microsoft = "zh-Hant"; Apple = "zh-Hant" }
     { Name = "French"; Microsoft = "fr"; Apple = "fr" }
     { Name = "German"; Microsoft = "de"; Apple = "de" }
     { Name = "Italian"; Microsoft = "it"; Apple = "it" }
