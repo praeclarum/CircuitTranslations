@@ -1,7 +1,7 @@
 ﻿"AC" = "AC";
 "AC Source" = "Wechselstromquelle";
 "ADC" = "ADW";
-"AM" = "AM";
+"AM" = "MW";
 "AM Antenna" = "MW-Antenne";
 "AND Gate" = "AND Gatter";
 "Accelerometer" = "Beschleunigungssensor";
@@ -19,7 +19,7 @@
 "Auto Duration" = "Dauer Automatisch Eingestellt";
 "Auto Values" = "Auto Eingestellter Wertebereich";
 "Automatic Bandwidth" = "Automatische Bandbreite";
-"Autowire" = "Auto-Draht";
+"Autowire" = "Auto Verbinder";
 "Avg" = "Avg";
 "BCD to 7-Segment Decoder" = "BCD zum 7-Segment-Decoder";
 "BJT Transistor" = "BJT Transistor";
@@ -260,7 +260,7 @@
 "Trigger" = "Trigger";
 "Trigger Current (A)" = "Auslösestrom (A)";
 "Triggered" = "Ausgelöst";
-"Type" = "Art";
+"Type" = "Typ";
 "Val" = "Val";
 "Value" = "Wert";
 "Vertical" = "Vertikale";
