@@ -81,6 +81,7 @@
 "Digitized Accelerometer" = "Оцифрованный акселерометр";
 "Diode" = "Диод";
 "Double-throw (DT)" = "Двойной бросок (DT)";
+"Drag to complete the wire" = "Перетащите, чтобы завершить провод";
 "Draw Border" = "Граница рисования";
 "Duration (s)" = "Продолжительность (сек.)";
 "Duty Cycle (%)" = "Рабочий цикл (%)";
@@ -244,12 +245,14 @@
 "Swap" = "Своп";
 "Sweep (linear)" = "Развертка (линейная)";
 "Sweep Time (s)" = "Время развертки (сек.)";
+"Tap elements to delete them" = "Коснитесь элементов, чтобы удалить их";
 "Tapped Transformer" = "Повернутый трансформатор";
 "Temperature (K)" = "Температура (K)";
 "Text" = "Текст";
 "Theme" = "Тема";
 "Thermistor" = "Термистор";
 "Threshold Voltage" = "Пороговое напряжение";
+"Touch and drag to draw wires" = "Касание и перетаскивание для рисования проводов";
 "Transformer" = "Трансформатор";
 "Transistor" = "Транзистор";
 "Triangle" = "Треугольник";

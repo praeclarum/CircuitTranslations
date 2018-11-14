@@ -81,6 +81,7 @@
 "Digitized Accelerometer" = "デジタル化加速度計";
 "Diode" = "ダイオード";
 "Double-throw (DT)" = "ダブルスロー (DT)";
+"Drag to complete the wire" = "ドラッグしてワイヤを完成させる";
 "Draw Border" = "罫線を引く";
 "Duration (s)" = "期間 (秒)";
 "Duty Cycle (%)" = "デューティサイクル (%)";
@@ -244,12 +245,14 @@
 "Swap" = "スワップ";
 "Sweep (linear)" = "スイープ (リニア)";
 "Sweep Time (s)" = "スイープ時間 (秒)";
+"Tap elements to delete them" = "要素をタップして削除する";
 "Tapped Transformer" = "タップトランス";
 "Temperature (K)" = "温度 (K)";
 "Text" = "テキスト";
 "Theme" = "テーマ";
 "Thermistor" = "サーミスタ";
 "Threshold Voltage" = "スレッショルド電圧";
+"Touch and drag to draw wires" = "タッチアンドドラッグでワイヤを描画";
 "Transformer" = "トランス";
 "Transistor" = "トランジスタ";
 "Triangle" = "三角 形";

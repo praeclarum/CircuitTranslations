@@ -81,6 +81,7 @@
 "Digitized Accelerometer" = "Acelerómetro digitalizado";
 "Diode" = "Diodo";
 "Double-throw (DT)" = "Doble-lance (desPEGUE)";
+"Drag to complete the wire" = "Arrastrar para completar el cable";
 "Draw Border" = "Dibujar borde";
 "Duration (s)" = "Duración (s)";
 "Duty Cycle (%)" = "Ciclo de deber (%)";
@@ -244,12 +245,14 @@
 "Swap" = "Intercambio";
 "Sweep (linear)" = "Barrido (lineal)";
 "Sweep Time (s)" = "Tiempo del barrido (s)";
+"Tap elements to delete them" = "Elementos de pulsación para eliminarlos";
 "Tapped Transformer" = "Transformador golpeado";
 "Temperature (K)" = "Temperatura (K)";
 "Text" = "Texto";
 "Theme" = "Tema";
 "Thermistor" = "Termistor";
 "Threshold Voltage" = "Voltaje del umbral";
+"Touch and drag to draw wires" = "Toque y arrastre para dibujar cables";
 "Transformer" = "Transformador";
 "Transistor" = "Transistor";
 "Triangle" = "Triángulo";

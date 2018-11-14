@@ -81,6 +81,7 @@
 "Digitized Accelerometer" = "数字化加速度计";
 "Diode" = "二极管";
 "Double-throw (DT)" = "双掷 (DT)";
+"Drag to complete the wire" = "拖动以完成电线";
 "Draw Border" = "绘制边框";
 "Duration (s)" = "持续时间";
 "Duty Cycle (%)" = "占空比 (%)";
@@ -244,12 +245,14 @@
 "Swap" = "交换";
 "Sweep (linear)" = "扫描 (线性)";
 "Sweep Time (s)" = "扫描时间 (s)";
+"Tap elements to delete them" = "点击元素将其删除";
 "Tapped Transformer" = "攻丝变压器";
 "Temperature (K)" = "温度 (K)";
 "Text" = "文本";
 "Theme" = "主题";
 "Thermistor" = "热敏电阻";
 "Threshold Voltage" = "阈值电压";
+"Touch and drag to draw wires" = "触摸和拖动以绘制电线";
 "Transformer" = "变压器";
 "Transistor" = "晶体管";
 "Triangle" = "三角形";
