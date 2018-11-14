@@ -246,7 +246,7 @@
 "Swap" = "Своп";
 "Sweep (linear)" = "Развертка (линейная)";
 "Sweep Time (s)" = "Время развертки (сек.)";
-"Tap elements to delete them" = "Коснитесь элементов, чтобы удалить их";
+"Tap elements to delete" = "Нажмите элементы для удаления";
 "Tapped Transformer" = "Повернутый трансформатор";
 "Temperature (K)" = "Температура (K)";
 "Text" = "Текст";

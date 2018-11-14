@@ -246,7 +246,7 @@
 "Swap" = "交换";
 "Sweep (linear)" = "扫描 (线性)";
 "Sweep Time (s)" = "扫描时间 (s)";
-"Tap elements to delete them" = "点击元素将其删除";
+"Tap elements to delete" = "点击要删除的元素";
 "Tapped Transformer" = "攻丝变压器";
 "Temperature (K)" = "温度 (K)";
 "Text" = "文本";
