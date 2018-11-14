@@ -48,6 +48,20 @@ as they would be recognized by beginners in electronics.
 If compound words can either be hyphenated or combined with space,
 prefer space. This is to help the rendering engine layout text properly.
 
+### Use Title Casing
+
+Most of the words are presented at title of things that can be modified.
+In English, this means most words get capitalized. Please use the right
+form of titling for the language.
+
+
+
+### Weird Words
+
+* `AM` is short for "Amplitude Modulation"
+* `Autowire` is short for "keep components connected during movement by automatically re-routing wires"
+* `Current` is electrical current
+
 
 
 ## Machine Auto-translation
