@@ -6,6 +6,7 @@
 "AND Gate" = "AND вентиль";
 "Accelerometer" = "Акселерометр";
 "Active" = "Активный";
+"Add tracks by tapping signals in the meter" = "Добавление треков путем касания сигналов в счетчике";
 "Amplifier" = "Усилитель";
 "Amplitude (V)" = "Амплитуда (V)";
 "Analog" = "Аналоговый";
@@ -19,6 +20,7 @@
 "Auto Values" = "Автоматические значения";
 "Automatic Bandwidth" = "Автоматическая пропускная способность";
 "Autowire" = "Автопроволока";
+"Avg" = "Средняя";
 "BCD to 7-Segment Decoder" = "BCD в 7-сегментный декодер";
 "BJT Transistor" = "BJT транзистор";
 "BJT Transistor (NPN)" = "BJT транзистор (NPN)";
@@ -98,6 +100,8 @@
 "ForwardVoltage" = "Форвардволтаже";
 "Free Running Current" = "Свободный идущий ток";
 "Free Running RPM" = "Свободный бег RPM";
+"Freq" = "Частота";
+"Frequencies" = "Частоты";
 "Frequency (Hz)" = "Частота (Гц)";
 "Frequency Deviation (Hz)" = "Отклонение частоты (Гц)";
 "Fuse" = "Предохранитель";
@@ -132,6 +136,8 @@
 "Light Mode" = "Режим освещения";
 "Line Over" = "Линия над";
 "Logarithmic" = "Логарифмический";
+"Max" = "Макс";
+"Max Freq" = "Максимальная частота";
 "Max Frequency (Hz)" = "Максимальная частота (Гц)";
 "Max Output (V)" = "Максимальный выход (V)";
 "Max Resistance (Ω)" = "Максимальное сопротивление (Ω)";
@@ -142,6 +148,7 @@
 "MaxVoltage" = "Максимальное напряжение тока";
 "Measure" = "Измерение";
 "Microphone" = "Микрофон";
+"Min" = "Мин";
 "Min Frequency (Hz)" = "Минимальная частота (Гц)";
 "Min Output (V)" = "Минимальный выход (V)";
 "Min Value" = "Минимальное значение";
@@ -152,6 +159,7 @@
 "NAND Gate" = "NAND вентиль";
 "NOR Gate" = "NOR вентиль";
 "Name" = "Имя";
+"No Tracks to Display" = "Нет треков для отображения";
 "No power (VIN)" = "Нет питания (VIN)";
 "Nominal Power" = "Номинальная мощность";
 "Nominal Voltage" = "Номинальное напряжение";
@@ -171,6 +179,8 @@
 "Open" = "Открыть";
 "Open Circuit Voltage" = "Напряжение разомкнутой цепи";
 "Orientation" = "Ориентации";
+"P-P" = "P-P";
+"Paused" = "Приостановлена";
 "Peak Amplitude (V)" = "Пиковая амплитуда (V)";
 "Phase Offset (deg)" = "Смещение фазы (°)";
 "Photoresistor" = "Фоторезистор";
@@ -184,6 +194,8 @@
 "Primary Inductance (H)" = "Первичная индуктивность (H)";
 "Pulse" = "Импульс";
 "Quality Factor" = "Фактор качества";
+"RMS" = "Rms";
+"Recording" = "Записи";
 "Red" = "Красного";
 "Red (%)" = "Красный (%)";
 "Relay" = "Реле";
@@ -241,8 +253,10 @@
 "Transformer" = "Трансформатор";
 "Transistor" = "Транзистор";
 "Triangle" = "Треугольник";
+"Trigger" = "Триггер";
 "Trigger Current (A)" = "Ток срабатывания (A)";
 "Type" = "Тип";
+"Val" = "Валь";
 "Value" = "Значение";
 "Vertical" = "Вертикальный";
 "Voltage" = "Напряжение";

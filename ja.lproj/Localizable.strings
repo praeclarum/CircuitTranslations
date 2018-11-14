@@ -6,6 +6,7 @@
 "AND Gate" = "とゲート";
 "Accelerometer" = "加速 度 計";
 "Active" = "アクティブ";
+"Add tracks by tapping signals in the meter" = "メーター内の信号をタップしてトラックを追加する";
 "Amplifier" = "アンプ";
 "Amplitude (V)" = "振幅 (V)";
 "Analog" = "アナログ";
@@ -19,6 +20,7 @@
 "Auto Values" = "自動値";
 "Automatic Bandwidth" = "自動帯域幅";
 "Autowire" = "Autowire";
+"Avg" = "平均";
 "BCD to 7-Segment Decoder" = "BCD ~ 7 セグメントデコーダ";
 "BJT Transistor" = "BJT トランジスタ";
 "BJT Transistor (NPN)" = "BJT トランジスタ (NPN)";
@@ -98,6 +100,8 @@
 "ForwardVoltage" = "ForwardVoltage";
 "Free Running Current" = "フリーランニング電流";
 "Free Running RPM" = "フリーランニング RPM";
+"Freq" = "周波数";
+"Frequencies" = "周波数";
 "Frequency (Hz)" = "周波数 (Hz)";
 "Frequency Deviation (Hz)" = "周波数偏差 (Hz)";
 "Fuse" = "ヒューズ";
@@ -132,6 +136,8 @@
 "Light Mode" = "ライトモード";
 "Line Over" = "ラインオーバー";
 "Logarithmic" = "対数";
+"Max" = "最大";
+"Max Freq" = "最大周波数";
 "Max Frequency (Hz)" = "最大周波数 (Hz)";
 "Max Output (V)" = "最大出力 (V)";
 "Max Resistance (Ω)" = "最大抵抗 (Ω)";
@@ -142,6 +148,7 @@
 "MaxVoltage" = "MaxVoltage";
 "Measure" = "測定";
 "Microphone" = "マイク";
+"Min" = "分";
 "Min Frequency (Hz)" = "最小周波数 (Hz)";
 "Min Output (V)" = "最小出力 (V)";
 "Min Value" = "最小値";
@@ -152,6 +159,7 @@
 "NAND Gate" = "NAND ゲート";
 "NOR Gate" = "またゲート";
 "Name" = "名前";
+"No Tracks to Display" = "表示するトラックがありません";
 "No power (VIN)" = "電源なし (VIN)";
 "Nominal Power" = "公称電力";
 "Nominal Voltage" = "公称電圧";
@@ -171,6 +179,8 @@
 "Open" = "開く";
 "Open Circuit Voltage" = "開回路電圧";
 "Orientation" = "方向";
+"P-P" = "p-p";
+"Paused" = "一時 停止";
 "Peak Amplitude (V)" = "ピーク振幅 (V)";
 "Phase Offset (deg)" = "位相オフセット (°)";
 "Photoresistor" = "Photoresistor";
@@ -184,6 +194,8 @@
 "Primary Inductance (H)" = "一次インダクタンス (H)";
 "Pulse" = "パルス";
 "Quality Factor" = "品質係数";
+"RMS" = "Rms";
+"Recording" = "記録";
 "Red" = "赤";
 "Red (%)" = "赤 (%)";
 "Relay" = "リレー";
@@ -241,8 +253,10 @@
 "Transformer" = "トランス";
 "Transistor" = "トランジスタ";
 "Triangle" = "三角 形";
+"Trigger" = "トリガー";
 "Trigger Current (A)" = "トリガ電流 (A)";
 "Type" = "型";
+"Val" = "ヴァル";
 "Value" = "値";
 "Vertical" = "垂直";
 "Voltage" = "電圧";

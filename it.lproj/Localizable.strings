@@ -6,6 +6,7 @@
 "AND Gate" = "AND Gate";
 "Accelerometer" = "Accelerometro";
 "Active" = "Attivo";
+"Add tracks by tapping signals in the meter" = "Aggiungi tracce toccando i segnali nel misuratore";
 "Amplifier" = "Amplificatore";
 "Amplitude (V)" = "Ampiezza (V)";
 "Analog" = "Analogico";
@@ -19,6 +20,7 @@
 "Auto Values" = "Valori automatici";
 "Automatic Bandwidth" = "Larghezza di banda automatica";
 "Autowire" = "Autowire";
+"Avg" = "Media";
 "BCD to 7-Segment Decoder" = "BCD a 7-segmento decoder";
 "BJT Transistor" = "BJT transistor";
 "BJT Transistor (NPN)" = "Transistor BJT (NPN)";
@@ -98,6 +100,8 @@
 "ForwardVoltage" = "Tensione FWD";
 "Free Running Current" = "Corrente di funzionamento libera";
 "Free Running RPM" = "GIRI liberi di funzionamento";
+"Freq" = "Freq";
+"Frequencies" = "Frequenze";
 "Frequency (Hz)" = "Frequenza (Hz)";
 "Frequency Deviation (Hz)" = "Deviazione di frequenza (Hz)";
 "Fuse" = "Fusibile";
@@ -132,6 +136,8 @@
 "Light Mode" = "Modalità luce";
 "Line Over" = "Linea sopra";
 "Logarithmic" = "Logaritmica";
+"Max" = "Massimo";
+"Max Freq" = "Max freq";
 "Max Frequency (Hz)" = "Frequenza massima (Hz)";
 "Max Output (V)" = "Uscita massima (V)";
 "Max Resistance (Ω)" = "Resistenza massima (Ω)";
@@ -142,6 +148,7 @@
 "MaxVoltage" = "MaxVoltage";
 "Measure" = "Misura";
 "Microphone" = "Microfono";
+"Min" = "Minimo";
 "Min Frequency (Hz)" = "Frequenza minima (Hz)";
 "Min Output (V)" = "Uscita minima (V)";
 "Min Value" = "Valore minimo";
@@ -152,6 +159,7 @@
 "NAND Gate" = "Cancello di NAND";
 "NOR Gate" = "NÉ Gate";
 "Name" = "Nome";
+"No Tracks to Display" = "Nessuna traccia da visualizzare";
 "No power (VIN)" = "Nessun potere (VIN)";
 "Nominal Power" = "Potenza nominale";
 "Nominal Voltage" = "Tensione nominale";
@@ -171,6 +179,8 @@
 "Open" = "Aperto";
 "Open Circuit Voltage" = "Tensione a circuito aperto";
 "Orientation" = "Orientamento";
+"P-P" = "P-P";
+"Paused" = "Pausa";
 "Peak Amplitude (V)" = "Ampiezza di picco (V)";
 "Phase Offset (deg)" = "Offset di fase (°)";
 "Photoresistor" = "Fotoresistore";
@@ -184,6 +194,8 @@
 "Primary Inductance (H)" = "Induttanza primaria (H)";
 "Pulse" = "Impulso";
 "Quality Factor" = "Fattore di qualità";
+"RMS" = "Rms";
+"Recording" = "Registrazione";
 "Red" = "Rosso";
 "Red (%)" = "Rosso (%)";
 "Relay" = "Relè";
@@ -241,8 +253,10 @@
 "Transformer" = "Trasformatore";
 "Transistor" = "Transistor";
 "Triangle" = "Triangolo";
+"Trigger" = "Trigger";
 "Trigger Current (A)" = "Corrente del grilletto (A)";
 "Type" = "Tipo";
+"Val" = "Val";
 "Value" = "Valore";
 "Vertical" = "Verticale";
 "Voltage" = "Tensione";

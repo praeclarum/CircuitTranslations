@@ -6,6 +6,7 @@
 "AND Gate" = "AND Gate";
 "Accelerometer" = "Accelerometer";
 "Active" = "Active";
+"Add tracks by tapping signals in the meter" = "Add tracks by tapping signals in the meter";
 "Amplifier" = "Amplifier";
 "Amplitude (V)" = "Amplitude (V)";
 "Analog" = "Analog";
@@ -19,6 +20,7 @@
 "Auto Values" = "Auto Values";
 "Automatic Bandwidth" = "Automatic Bandwidth";
 "Autowire" = "Autowire";
+"Avg" = "Avg";
 "BCD to 7-Segment Decoder" = "BCD to 7-Segment Decoder";
 "BJT Transistor" = "BJT Transistor";
 "BJT Transistor (NPN)" = "BJT Transistor (NPN)";
@@ -98,6 +100,8 @@
 "ForwardVoltage" = "Forward Voltage";
 "Free Running Current" = "Free Running Current";
 "Free Running RPM" = "Free Running RPM";
+"Freq" = "Freq";
+"Frequencies" = "Frequencies";
 "Frequency (Hz)" = "Frequency (Hz)";
 "Frequency Deviation (Hz)" = "Frequency Deviation (Hz)";
 "Fuse" = "Fuse";
@@ -132,6 +136,8 @@
 "Light Mode" = "Light Mode";
 "Line Over" = "Line Over";
 "Logarithmic" = "Logarithmic";
+"Max" = "Max";
+"Max Freq" = "Max Freq";
 "Max Frequency (Hz)" = "Max Frequency (Hz)";
 "Max Output (V)" = "Max Output (V)";
 "Max Resistance (Ω)" = "Max Resistance (Ω)";
@@ -142,6 +148,7 @@
 "MaxVoltage" = "Max Voltage";
 "Measure" = "Measure";
 "Microphone" = "Microphone";
+"Min" = "Min";
 "Min Frequency (Hz)" = "Min Frequency (Hz)";
 "Min Output (V)" = "Min Output (V)";
 "Min Value" = "Min Value";
@@ -152,6 +159,7 @@
 "NAND Gate" = "NAND Gate";
 "NOR Gate" = "NOR Gate";
 "Name" = "Name";
+"No Tracks to Display" = "No Tracks to Display";
 "No power (VIN)" = "No power (VIN)";
 "Nominal Power" = "Nominal Power";
 "Nominal Voltage" = "Nominal Voltage";
@@ -171,6 +179,8 @@
 "Open" = "Open";
 "Open Circuit Voltage" = "Open Circuit Voltage";
 "Orientation" = "Orientation";
+"P-P" = "P-P";
+"Paused" = "Paused";
 "Peak Amplitude (V)" = "Peak Amplitude (V)";
 "Phase Offset (deg)" = "Phase Offset (deg)";
 "Photoresistor" = "Photoresistor";
@@ -184,6 +194,8 @@
 "Primary Inductance (H)" = "Primary Inductance (H)";
 "Pulse" = "Pulse";
 "Quality Factor" = "Quality Factor";
+"RMS" = "RMS";
+"Recording" = "Recording";
 "Red" = "Red";
 "Red (%)" = "Red (%)";
 "Relay" = "Relay";
@@ -241,8 +253,10 @@
 "Transformer" = "Transformer";
 "Transistor" = "Transistor";
 "Triangle" = "Triangle";
+"Trigger" = "Trigger";
 "Trigger Current (A)" = "Trigger Current (A)";
 "Type" = "Type";
+"Val" = "Val";
 "Value" = "Value";
 "Vertical" = "Vertical";
 "Voltage" = "Voltage";

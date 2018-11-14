@@ -6,6 +6,7 @@
 "AND Gate" = "与门";
 "Accelerometer" = "加速度计";
 "Active" = "积极";
+"Add tracks by tapping signals in the meter" = "通过点击仪表中的信号添加轨道";
 "Amplifier" = "放大器";
 "Amplitude (V)" = "振幅 (V)";
 "Analog" = "模拟";
@@ -19,6 +20,7 @@
 "Auto Values" = "自动值";
 "Automatic Bandwidth" = "自动带宽";
 "Autowire" = "autowire";
+"Avg" = "Avg";
 "BCD to 7-Segment Decoder" = "BCD到7段解码器";
 "BJT Transistor" = "BJT晶体管";
 "BJT Transistor (NPN)" = "BJT晶体管 (NPN)";
@@ -98,6 +100,8 @@
 "ForwardVoltage" = "正向电压";
 "Free Running Current" = "自由运行电流";
 "Free Running RPM" = "免费运行 RPM";
+"Freq" = "频率";
+"Frequencies" = "频率";
 "Frequency (Hz)" = "频率 (赫兹)";
 "Frequency Deviation (Hz)" = "频率偏差 (Hz)";
 "Fuse" = "保险丝";
@@ -132,6 +136,8 @@
 "Light Mode" = "灯光模式";
 "Line Over" = "线路结束";
 "Logarithmic" = "对数";
+"Max" = "麦克斯";
+"Max Freq" = "max freq";
 "Max Frequency (Hz)" = "最大频率 (Hz)";
 "Max Output (V)" = "最大输出 (V)";
 "Max Resistance (Ω)" = "最大电阻 (Ω)";
@@ -142,6 +148,7 @@
 "MaxVoltage" = "最大电压";
 "Measure" = "措施";
 "Microphone" = "麦克风";
+"Min" = "最小值";
 "Min Frequency (Hz)" = "最小频率 (Hz)";
 "Min Output (V)" = "最小输出 (V)";
 "Min Value" = "最小值";
@@ -152,6 +159,7 @@
 "NAND Gate" = "NAND门";
 "NOR Gate" = "NOR门";
 "Name" = "名字";
+"No Tracks to Display" = "没有要显示的轨道";
 "No power (VIN)" = "无电源 (VIN)";
 "Nominal Power" = "标称功率";
 "Nominal Voltage" = "额定电压";
@@ -171,6 +179,8 @@
 "Open" = "打开";
 "Open Circuit Voltage" = "开路电压";
 "Orientation" = "取向";
+"P-P" = "p-p";
+"Paused" = "暂停";
 "Peak Amplitude (V)" = "峰值振幅 (V)";
 "Phase Offset (deg)" = "相位偏移 (°)";
 "Photoresistor" = "光刻胶";
@@ -184,6 +194,8 @@
 "Primary Inductance (H)" = "主电感 (H)";
 "Pulse" = "脉冲";
 "Quality Factor" = "质量因素";
+"RMS" = "Rms";
+"Recording" = "记录";
 "Red" = "红";
 "Red (%)" = "红色 (%)";
 "Relay" = "继 电器";
@@ -241,8 +253,10 @@
 "Transformer" = "变压器";
 "Transistor" = "晶体管";
 "Triangle" = "三角形";
+"Trigger" = "触发";
 "Trigger Current (A)" = "触发电流 (A)";
 "Type" = "类型";
+"Val" = "瓦尔";
 "Value" = "价值";
 "Vertical" = "垂直";
 "Voltage" = "电压";
