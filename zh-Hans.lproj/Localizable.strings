@@ -136,7 +136,7 @@
 "Light Mode" = "灯光模式";
 "Line Over" = "线路结束";
 "Logarithmic" = "对数";
-"Max" = "麦克斯";
+"Max" = "Max";
 "Max Freq" = "max freq";
 "Max Frequency (Hz)" = "最大频率 (Hz)";
 "Max Output (V)" = "最大输出 (V)";
@@ -148,7 +148,7 @@
 "MaxVoltage" = "最大电压";
 "Measure" = "措施";
 "Microphone" = "麦克风";
-"Min" = "最小值";
+"Min" = "Min";
 "Min Frequency (Hz)" = "最小频率 (Hz)";
 "Min Output (V)" = "最小输出 (V)";
 "Min Value" = "最小值";

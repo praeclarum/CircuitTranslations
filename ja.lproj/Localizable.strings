@@ -136,8 +136,8 @@
 "Light Mode" = "ライトモード";
 "Line Over" = "ラインオーバー";
 "Logarithmic" = "対数";
-"Max" = "最大";
-"Max Freq" = "最大周波数";
+"Max" = "Max";
+"Max Freq" = "Max Freq";
 "Max Frequency (Hz)" = "最大周波数 (Hz)";
 "Max Output (V)" = "最大出力 (V)";
 "Max Resistance (Ω)" = "最大抵抗 (Ω)";
@@ -148,7 +148,7 @@
 "MaxVoltage" = "MaxVoltage";
 "Measure" = "測定";
 "Microphone" = "マイク";
-"Min" = "分";
+"Min" = "Min";
 "Min Frequency (Hz)" = "最小周波数 (Hz)";
 "Min Output (V)" = "最小出力 (V)";
 "Min Value" = "最小値";
