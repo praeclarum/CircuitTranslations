@@ -15,6 +15,7 @@ let cognitiveKey = System.IO.File.ReadAllText("key").Trim()
 type Language = { Name : string; Microsoft : string; Apple : string }
 
 let langs = [
+    { Name = "English"; Microsoft = "en"; Apple = "Base" }
     { Name = "Chinese Simplified"; Microsoft = "zh-Hans"; Apple = "zh" }
     //{ Name = "Chinese Traditional"; Microsoft = "zh-Hant"; Apple = "zh" }
     { Name = "French"; Microsoft = "fr"; Apple = "fr" }
