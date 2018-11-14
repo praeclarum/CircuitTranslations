@@ -24,7 +24,8 @@ let langs = [
     { Name = "Japanese"; Microsoft = "ja"; Apple = "ja" }
     { Name = "Russian"; Microsoft = "ru"; Apple = "ru" }
     { Name = "Spanish"; Microsoft = "es"; Apple = "es" }
-    { Name = "Portuguese"; Microsoft = "pt"; Apple = "pt" }
+    { Name = "Portuguese (Brazil)"; Microsoft = "pt-BR"; Apple = "pt-BR" }
+    { Name = "Portuguese (Portugal)"; Microsoft = "pt-PT"; Apple = "pt-PT" }
     ]
 
 type TranslationReq = { Text : string }
@@ -124,10 +125,10 @@ let translatedLangStrings =
         lang, uniqueKeys
         |> Seq.choose (fun k ->
             if s.ContainsKey k then
-                if translations.ContainsKey k && (s.[k].Equals (translations.[k].[lang.Microsoft], StringComparison.InvariantCultureIgnoreCase) |> not) then
+                if translations.ContainsKey k && translations.[k].ContainsKey lang.Microsoft && (s.[k].Equals (translations.[k].[lang.Microsoft], StringComparison.InvariantCultureIgnoreCase) |> not) then
                     conflict lang k s.[k] translations.[k].[lang.Microsoft]
                 (k, s.[k]) |> Some
-            elif translations.ContainsKey k then
+            elif translations.ContainsKey k && translations.[k].ContainsKey lang.Microsoft then
                 merge lang k translations.[k].[lang.Microsoft]
                 (k, translations.[k].[lang.Microsoft]) |> Some
             else None)
