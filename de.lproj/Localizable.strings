@@ -255,6 +255,7 @@
 "Triangle" = "Dreieck";
 "Trigger" = "Trigger";
 "Trigger Current (A)" = "Auslösestrom (A)";
+"Triggered" = "Ausgelöst";
 "Type" = "Art";
 "Val" = "Val";
 "Value" = "Wert";

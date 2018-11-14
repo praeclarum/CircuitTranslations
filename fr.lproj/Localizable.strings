@@ -255,6 +255,7 @@
 "Triangle" = "Triangle";
 "Trigger" = "Déclencheur";
 "Trigger Current (A)" = "Courant de déclenchement (A)";
+"Triggered" = "Déclenché";
 "Type" = "Type";
 "Val" = "Val";
 "Value" = "Valeur";

@@ -6,7 +6,7 @@
 "AND Gate" = "和門";
 "Accelerometer" = "加速度 計";
 "Active" = "積極";
-"Add tracks by tapping signals in the meter" = "通過點擊儀錶中的信號添加軌道";
+"Add tracks by tapping signals in the meter" = "Add tracks by tapping signals in the meter";
 "Amplifier" = "放大 器";
 "Amplitude (V)" = "振幅 (V)";
 "Analog" = "類比";
@@ -101,7 +101,7 @@
 "Free Running Current" = "自由運行電流";
 "Free Running RPM" = "免費運行 RPM";
 "Freq" = "頻率";
-"Frequencies" = "頻率";
+"Frequencies" = "Frequencies";
 "Frequency (Hz)" = "頻率 (赫茲)";
 "Frequency Deviation (Hz)" = "頻率偏差 (Hz)";
 "Fuse" = "保險絲";
@@ -159,7 +159,7 @@
 "NAND Gate" = "NAND門";
 "NOR Gate" = "NOR門";
 "Name" = "名字";
-"No Tracks to Display" = "沒有要顯示的軌道";
+"No Tracks to Display" = "No Tracks to Display";
 "No power (VIN)" = "無電源 (VIN)";
 "Nominal Power" = "標稱功率";
 "Nominal Voltage" = "額定電壓";
@@ -180,7 +180,7 @@
 "Open Circuit Voltage" = "開路電壓";
 "Orientation" = "取向";
 "P-P" = "p-p";
-"Paused" = "暫停";
+"Paused" = "Paused";
 "Peak Amplitude (V)" = "峰值振幅 (V)";
 "Phase Offset (deg)" = "相位偏移 (°)";
 "Photoresistor" = "光刻膠";
@@ -194,8 +194,8 @@
 "Primary Inductance (H)" = "主電感 (H)";
 "Pulse" = "脈衝";
 "Quality Factor" = "品質因素";
-"RMS" = "Rms";
-"Recording" = "記錄";
+"RMS" = "RMS";
+"Recording" = "Recording";
 "Red" = "紅";
 "Red (%)" = "紅色 (%)";
 "Relay" = "繼 電器";
@@ -205,7 +205,7 @@
 "Restore Examples" = "還原示例";
 "Reverse Polarity" = "反向極性";
 "Review on the App Store" = "在應用商店上查看";
-"SCR" = "Scr";
+"SCR" = "SCR";
 "SPDT Analog Switch" = "類比開關";
 "SPDT Switch" = "開關";
 "SPST Push Switch" = "spst 推送開關";
@@ -253,8 +253,9 @@
 "Transformer" = "變壓器";
 "Transistor" = "電晶體";
 "Triangle" = "三角形";
-"Trigger" = "觸發";
+"Trigger" = "Trigger";
 "Trigger Current (A)" = "觸發電流 (A)";
+"Triggered" = "Triggered";
 "Type" = "類型";
 "Val" = "瓦爾";
 "Value" = "價值";

@@ -101,7 +101,7 @@
 "Free Running Current" = "フリーランニング電流";
 "Free Running RPM" = "フリーランニング RPM";
 "Freq" = "周波数";
-"Frequencies" = "周波数";
+"Frequencies" = "Frequencies";
 "Frequency (Hz)" = "周波数 (Hz)";
 "Frequency Deviation (Hz)" = "周波数偏差 (Hz)";
 "Fuse" = "ヒューズ";
@@ -180,7 +180,7 @@
 "Open Circuit Voltage" = "開回路電圧";
 "Orientation" = "方向";
 "P-P" = "p-p";
-"Paused" = "一時 停止";
+"Paused" = "Paused";
 "Peak Amplitude (V)" = "ピーク振幅 (V)";
 "Phase Offset (deg)" = "位相オフセット (°)";
 "Photoresistor" = "Photoresistor";
@@ -194,8 +194,8 @@
 "Primary Inductance (H)" = "一次インダクタンス (H)";
 "Pulse" = "パルス";
 "Quality Factor" = "品質係数";
-"RMS" = "Rms";
-"Recording" = "記録";
+"RMS" = "RMS";
+"Recording" = "Recording";
 "Red" = "赤";
 "Red (%)" = "赤 (%)";
 "Relay" = "リレー";
@@ -205,7 +205,7 @@
 "Restore Examples" = "復元の例";
 "Reverse Polarity" = "逆極性";
 "Review on the App Store" = "App の店の検討";
-"SCR" = "Scr";
+"SCR" = "SCR";
 "SPDT Analog Switch" = "SPDT アナログスイッチ";
 "SPDT Switch" = "SPDT スイッチ";
 "SPST Push Switch" = "SPST プッシュスイッチ";
@@ -253,8 +253,9 @@
 "Transformer" = "トランス";
 "Transistor" = "トランジスタ";
 "Triangle" = "三角 形";
-"Trigger" = "トリガー";
+"Trigger" = "Trigger";
 "Trigger Current (A)" = "トリガ電流 (A)";
+"Triggered" = "Triggered";
 "Type" = "型";
 "Val" = "ヴァル";
 "Value" = "値";
