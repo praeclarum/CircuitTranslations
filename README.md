@@ -29,7 +29,8 @@ Thank you very much for your help!
 |Italian|it|[Strings](it.lproj/Localizable.strings)|
 |Russian|ru|[Strings](ru.lproj/Localizable.strings)|
 |French|fr|[Strings](fr.lproj/Localizable.strings)|
-|Portuguese|pt|[Strings](pt.lproj/Localizable.strings)|
+|Portuguese (Brazil)|pt-BR|[Strings](pt-BR.lproj/Localizable.strings)|
+|Portuguese (Portugal)|pt-PT|[Strings](pt-PT.lproj/Localizable.strings)|
 
 (Sorted by app usage.)
 
