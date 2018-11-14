@@ -21,7 +21,7 @@ Thank you very much for your help!
 | Language | ID | Status | Link |
 |--|--|--|--|
 |English|Base|✅|[Strings](Base.lproj/Localizable.strings)|
-|Japanese|js|❗️|[Strings](ja.lproj/Localizable.strings)|
+|Japanese|ja|❗️|[Strings](ja.lproj/Localizable.strings)|
 |German|de|✅|[Strings](de.lproj/Localizable.strings)|
 |Chinese (Simplified)|zh-Hans|⚠️|[Strings](zh-Hans.lproj/Localizable.strings)|
 |Chinese (Traditional)|zh-Hant|❗️|[Strings](zh-Hant.lproj/Localizable.strings)|
