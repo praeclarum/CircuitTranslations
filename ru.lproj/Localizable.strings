@@ -57,7 +57,6 @@
 "Circuit Settings" = "Настройки цепей";
 "Closed" = "Закрыт";
 "Code" = "Код";
-@ -49,17 +49,17 @@
 "Coil Resistance (Ω)" = "Сопротивление катушки (Ω)";
 "Coil Voltage (V)" = "Напряжение катушки (V)";
 "Color" = "Цвет";
@@ -79,7 +78,6 @@
 "DAC" = "DAC";
 "DC" = "DC";
 "DC Current Source" = "Источник постоянного тока";
-@ -79,8 +79,8 @@
 "Digitized Accelerometer" = "Оцифрованный акселерометр";
 "Diode" = "Диод";
 "Double-throw (DT)" = "Двойной бросок (DT)";
@@ -90,7 +88,6 @@
 "Duty Cycle (%)" = "Рабочий цикл (%)";
 "Edit" = "Редактировать";
 "Electron Direction" = "Электронное направление";
-@ -89,11 +89,11 @@
 "End" = "Конец";
 "Export" = "Экспорт";
 "Expression" = "Выражение";
@@ -106,7 +103,6 @@
 "ForwardVoltage" = "Форвардволтаже";
 "Free Running Current" = "Свободный идущий ток";
 "Free Running RPM" = "Свободный бег RPM";
-@ -102,14 +102,14 @@
 "Fuse" = "Предохранитель";
 "Fwd Voltage @ 1A" = "FWD напряжение @ 1A";
 "Gate-Cathode Resistance (Ω)" = "Сопротивление строб-катода (Ω)";
@@ -124,7 +120,6 @@
 "Horizontal" = "Горизонтальной";
 "I promise to read all your feedback but I can't guarantee a response to every email. Sorry!" = "Я обещаю читать все ваши отзывы, но я не могу гарантировать ответ на каждое письмо. Извините!";
 "IC" = "IC";
-@ -118,14 +118,14 @@
 "Inductance" = "Индуктивность";
 "Inductance (H)" = "Индуктивность (H)";
 "Inductor" = "Индуктор";
@@ -144,7 +139,6 @@
 "Library Filter" = "Фильтр библиотеки";
 "Light (lux)" = "Свет (Люкс)";
 "Light Mode" = "Режим освещения";
-@ -136,33 +136,33 @@
 "Max Resistance (Ω)" = "Максимальное сопротивление (Ω)";
 "Max Value" = "Максимальное значение";
 "Max Voltage" = "Максимальное напряжение";
@@ -191,7 +185,6 @@
 "Off Resistance (Ω)" = "От сопротивления (Ω)";
 "On Resistance (Ω)" = "На сопротивлении (Ω)";
 "Online Resources" = "Интернет-ресурсы";
-@ -181,7 +181,7 @@
 "Potentiometer" = "Потенциометр";
 "Power" = "Мощность";
 "Primary Inductance (H)" = "Первичная индуктивность (H)";
@@ -200,7 +193,6 @@
 "Quality Factor" = "Фактор качества";
 "Red" = "Красного";
 "Red (%)" = "Красный (%)";
-@ -189,20 +189,20 @@
 "Resistance" = "Сопротивление";
 "Resistance (Ω)" = "Сопротивление (Ω)";
 "Resistor" = "Резистор";
@@ -227,7 +219,6 @@
 "Show Console" = "Показать консоль";
 "Show Current" = "Показать текущий";
 "Show Grid" = "Показать сетку";
-@ -212,17 +212,17 @@
 "Show Voltage" = "Показать напряжение";
 "Shunt Capacitance (F)" = "Шунтовая ёмкость (F)";
 "Signal Frequency (Hz)" = "Частота сигнала (Гц)";
@@ -250,7 +241,6 @@
 "Start" = "Начать";
 "Stepper Motor" = "Шаговый двигатель";
 "Subcircuit" = "Подсхемы";
-@ -230,34 +230,34 @@
 "Supply Voltage" = "Напряжение питания";
 "Swap" = "Своп";
 "Sweep (linear)" = "Развертка (линейная)";
