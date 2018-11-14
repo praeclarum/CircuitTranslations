@@ -1,8 +1,7 @@
-"AC" = "AC";
+﻿"AC" = "AC";
 "AC Source" = "Wechselstromquelle";
 "ADC" = "ADW";
 "AM" = "AM";
-/* in that context AM is "Mittelwelle" in German */
 "AM Antenna" = "MW-Antenne";
 "AND Gate" = "AND Gatter";
 "Accelerometer" = "Beschleunigungssensor";
@@ -19,7 +18,6 @@
 "Auto Duration" = "Dauer Automatisch Eingestellt";
 "Auto Values" = "Auto Eingestellter Wertebereich";
 "Automatic Bandwidth" = "Automatische Bandbreite";
-/* could you elaborate on "autowire"? */
 "Autowire" = "Auto-Draht";
 "BCD to 7-Segment Decoder" = "BCD zum 7-Segment-Decoder";
 "BJT Transistor" = "BJT Transistor";
@@ -89,6 +87,7 @@
 "Email Support" = "Email Unterstützung";
 "Enable Anonymous Analytics" = "Aktivieren Sie anonyme Analysen";
 "End" = "Ende";
+"Examples" = "Beispiele";
 "Export" = "Exportieren";
 "Expression" = "Ausdruck";
 "FM" = "UKW";
@@ -243,7 +242,6 @@
 "Transistor" = "Transistor";
 "Triangle" = "Dreieck";
 "Trigger Current (A)" = "Auslösestrom (A)";
-/* don't know iCircuit, here "Typ" may also be a valid translation */
 "Type" = "Art";
 "Value" = "Wert";
 "Vertical" = "Vertikale";
@@ -256,7 +254,6 @@
 "WikipediaUrl" = "Wikipedia";
 "Wire" = "Kabel";
 "XOR Gate" = "XOR Gatter";
-/* if this is the text after a review, "Herzlichen Dank für Ihre Bewertung" would be better */
 "Your review is very much appreciated!" = "Ihre Bewertung wird sehr geschätzt!";
 "Zener Diode" = "Zener-Diode";
 "Zener Voltage @ 5mA" = "Zener-Spannung @ 5mA";
