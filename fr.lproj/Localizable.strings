@@ -110,6 +110,7 @@
 "Fwd Voltage @ 1A" = "Tension directe @ 1A";
 "Gate-Cathode Resistance (Ω)" = "Résistance porte-cathode (Ω)";
 "Gauge" = "Jauge";
+"GitHub is used to coordinate the translation effort." = "GitHub est utilisé pour coordonner l'effort de traduction.";
 "Green" = "Vert";
 "Green (%)" = "Vert (%)";
 "Ground" = "Terre";

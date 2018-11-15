@@ -110,6 +110,7 @@
 "Fwd Voltage @ 1A" = "Fwd 電圧 @ 1A";
 "Gate-Cathode Resistance (Ω)" = "ゲート-カソード抵抗 (Ω)";
 "Gauge" = "ゲージ";
+"GitHub is used to coordinate the translation effort." = "GitHub は翻訳作業を調整するために使用されます。";
 "Green" = "緑";
 "Green (%)" = "緑 (%)";
 "Ground" = "地面";

@@ -110,6 +110,7 @@
 "Fwd Voltage @ 1A" = "Tensione FWD @ 1A";
 "Gate-Cathode Resistance (Ω)" = "Resistenza gate-catodo (Ω)";
 "Gauge" = "Calibro";
+"GitHub is used to coordinate the translation effort." = "GitHub è usato per coordinare lo sforzo di traduzione.";
 "Green" = "Verde";
 "Green (%)" = "Verde (%)";
 "Ground" = "Terra";

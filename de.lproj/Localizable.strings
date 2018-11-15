@@ -110,6 +110,7 @@
 "Fwd Voltage @ 1A" = "Durchlassspannung @ 1A";
 "Gate-Cathode Resistance (Ω)" = "Gate-Kathoden-Widerstand (Ω)";
 "Gauge" = "Spur";
+"GitHub is used to coordinate the translation effort." = "GitHub wird verwendet, um den Übersetzungsaufwand zu koordinieren.";
 "Green" = "Grün";
 "Green (%)" = "Grün (%)";
 "Ground" = "Masse";

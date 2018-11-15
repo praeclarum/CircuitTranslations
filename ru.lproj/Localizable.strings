@@ -110,6 +110,7 @@
 "Fwd Voltage @ 1A" = "FWD напряжение @ 1A";
 "Gate-Cathode Resistance (Ω)" = "Сопротивление строб-катода (Ω)";
 "Gauge" = "Измерительный прибор";
+"GitHub is used to coordinate the translation effort." = "GitHub используется для координации усилий по переводу.";
 "Green" = "Зеленый";
 "Green (%)" = "Зеленый (%)";
 "Ground" = "Земля";

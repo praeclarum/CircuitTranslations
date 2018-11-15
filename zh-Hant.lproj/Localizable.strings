@@ -110,6 +110,7 @@
 "Fwd Voltage @ 1A" = "fwd 電壓 @ 1A";
 "Gate-Cathode Resistance (Ω)" = "門陰極電阻 (Ω)";
 "Gauge" = "表";
+"GitHub is used to coordinate the translation effort." = "github 用於協調翻譯工作。";
 "Green" = "綠色";
 "Green (%)" = "綠色 (%)";
 "Ground" = "地面";
