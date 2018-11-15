@@ -52,6 +52,7 @@
 "Coil Voltage (V)" = "线圈电压 (V)";
 "Color" = "颜色";
 "Colpitts Oscillator" = "科尔皮茨振荡器";
+"Contributors" = "贡献";
 "Conventional Direction" = "常规方向";
 "Cooldown Time (s)" = "冷却时间 (s)";
 "Counter" = "计数器";
@@ -115,6 +116,7 @@
 "H-Bridge" = "h 桥";
 "HEF4000B Datasheet" = "HEF4000B数据手册";
 "Height" = "高度";
+"Help Translate" = "帮助翻译";
 "Holding Current (A)" = "保持电流 (A)";
 "Horizontal" = "水平";
 "I promise to read all your feedback but I can't guarantee a response to every email. Sorry!" = "我保证阅读你所有的反馈, 但我不能保证每封电子邮件都能得到回复。对不起！";
@@ -250,12 +252,14 @@
 "Tapped Transformer" = "攻丝变压器";
 "Temperature (K)" = "温度 (K)";
 "Text" = "文本";
+"Thank you for your help!" = "谢谢你的帮助!";
 "Theme" = "主题";
 "Thermistor" = "热敏电阻";
 "Threshold Voltage" = "阈值电压";
 "Touch and drag to draw wires" = "触摸和拖动以绘制电线";
 "Transformer" = "变压器";
 "Transistor" = "晶体管";
+"Translations on Github" = "吉图布的翻译";
 "Triangle" = "三角形";
 "Trigger" = "Trigger";
 "Trigger Current (A)" = "触发电流 (A)";

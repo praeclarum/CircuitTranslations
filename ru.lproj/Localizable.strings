@@ -52,6 +52,7 @@
 "Coil Voltage (V)" = "Напряжение катушки (V)";
 "Color" = "Цвет";
 "Colpitts Oscillator" = "Генератор Колпитца";
+"Contributors" = "Участников";
 "Conventional Direction" = "Обычное направление";
 "Cooldown Time (s)" = "Время восстановления (сек.)";
 "Counter" = "Счетчик";
@@ -115,6 +116,7 @@
 "H-Bridge" = "H-мост";
 "HEF4000B Datasheet" = "ХЕФ4000Б-описание производителя";
 "Height" = "Высота";
+"Help Translate" = "Помогите перевести";
 "Holding Current (A)" = "Удерживающий ток (A)";
 "Horizontal" = "Горизонтальной";
 "I promise to read all your feedback but I can't guarantee a response to every email. Sorry!" = "Я обещаю читать все ваши отзывы, но я не могу гарантировать ответ на каждое письмо. Извините!";
@@ -250,12 +252,14 @@
 "Tapped Transformer" = "Повернутый трансформатор";
 "Temperature (K)" = "Температура (K)";
 "Text" = "Текст";
+"Thank you for your help!" = "Благодарим вас за помощь!";
 "Theme" = "Тема";
 "Thermistor" = "Термистор";
 "Threshold Voltage" = "Пороговое напряжение";
 "Touch and drag to draw wires" = "Касание и перетаскивание для рисования проводов";
 "Transformer" = "Трансформатор";
 "Transistor" = "Транзистор";
+"Translations on Github" = "Переводы на GitHub";
 "Triangle" = "Треугольник";
 "Trigger" = "Триггер";
 "Trigger Current (A)" = "Ток срабатывания (A)";

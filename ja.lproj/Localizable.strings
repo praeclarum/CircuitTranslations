@@ -52,6 +52,7 @@
 "Coil Voltage (V)" = "コイル電圧 (V)";
 "Color" = "色";
 "Colpitts Oscillator" = "コルピッツ発振器";
+"Contributors" = "貢献";
 "Conventional Direction" = "従来の方向";
 "Cooldown Time (s)" = "クールダウン時間 (秒)";
 "Counter" = "カウンター";
@@ -115,6 +116,7 @@
 "H-Bridge" = "H ブリッジ";
 "HEF4000B Datasheet" = "HEF4000B データシート";
 "Height" = "高さ";
+"Help Translate" = "翻訳ヘルプ";
 "Holding Current (A)" = "保持電流 (A)";
 "Horizontal" = "水平";
 "I promise to read all your feedback but I can't guarantee a response to every email. Sorry!" = "私はすべてのフィードバックを読むことを約束するが、私はすべてのメールへの応答を保証することはできません。すみません！";
@@ -250,12 +252,14 @@
 "Tapped Transformer" = "タップトランス";
 "Temperature (K)" = "温度 (K)";
 "Text" = "テキスト";
+"Thank you for your help!" = "あなたの助けをありがとう!";
 "Theme" = "テーマ";
 "Thermistor" = "サーミスタ";
 "Threshold Voltage" = "スレッショルド電圧";
 "Touch and drag to draw wires" = "タッチアンドドラッグでワイヤを描画";
 "Transformer" = "トランス";
 "Transistor" = "トランジスタ";
+"Translations on Github" = "Github での翻訳";
 "Triangle" = "三角 形";
 "Trigger" = "Trigger";
 "Trigger Current (A)" = "トリガ電流 (A)";

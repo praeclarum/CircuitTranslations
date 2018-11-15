@@ -52,6 +52,7 @@
 "Coil Voltage (V)" = "Voltaje de la bobina (V)";
 "Color" = "Color";
 "Colpitts Oscillator" = "Oscilador Colpitts";
+"Contributors" = "Colaboradores";
 "Conventional Direction" = "Dirección convencional";
 "Cooldown Time (s)" = "Tiempo (s) de enfriamiento";
 "Counter" = "Contador";
@@ -115,6 +116,7 @@
 "H-Bridge" = "Puente H";
 "HEF4000B Datasheet" = "Hoja de HEF4000B";
 "Height" = "Altura";
+"Help Translate" = "Ayudar a traducir";
 "Holding Current (A)" = "Corriente de la tenencia (A)";
 "Horizontal" = "Horizontal";
 "I promise to read all your feedback but I can't guarantee a response to every email. Sorry!" = "Prometo leer todos sus comentarios pero no puedo garantizar una respuesta a cada correo electrónico. ¡Lo siento!";
@@ -250,12 +252,14 @@
 "Tapped Transformer" = "Transformador golpeado";
 "Temperature (K)" = "Temperatura (K)";
 "Text" = "Texto";
+"Thank you for your help!" = "¡ Gracias por su ayuda!";
 "Theme" = "Tema";
 "Thermistor" = "Termistor";
 "Threshold Voltage" = "Voltaje del umbral";
 "Touch and drag to draw wires" = "Toque y arrastre para dibujar cables";
 "Transformer" = "Transformador";
 "Transistor" = "Transistor";
+"Translations on Github" = "Traducciones en github";
 "Triangle" = "Triángulo";
 "Trigger" = "Gatillo";
 "Trigger Current (A)" = "Corriente del disParador (A)";
