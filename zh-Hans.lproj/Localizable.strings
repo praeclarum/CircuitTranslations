@@ -180,7 +180,7 @@
 "Open" = "打开";
 "Open Circuit Voltage" = "开路电压";
 "Orientation" = "取向";
-"P-P" = "p-p";
+"P-P" = "P-P";
 "Paused" = "Paused";
 "Peak Amplitude (V)" = "峰值振幅 (V)";
 "Phase Offset (deg)" = "相位偏移 (°)";
@@ -261,7 +261,7 @@
 "Trigger Current (A)" = "触发电流 (A)";
 "Triggered" = "Triggered";
 "Type" = "类型";
-"Val" = "瓦尔";
+"Val" = "Val";
 "Value" = "价值";
 "Vertical" = "垂直";
 "Voltage" = "电压";

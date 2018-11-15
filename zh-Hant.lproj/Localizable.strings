@@ -101,7 +101,7 @@
 "ForwardVoltage" = "正向電壓";
 "Free Running Current" = "自由運行電流";
 "Free Running RPM" = "免費運行 RPM";
-"Freq" = "頻率";
+"Freq" = "Freq";
 "Frequencies" = "Frequencies";
 "Frequency (Hz)" = "頻率 (赫茲)";
 "Frequency Deviation (Hz)" = "頻率偏差 (Hz)";
@@ -180,7 +180,7 @@
 "Open" = "打開";
 "Open Circuit Voltage" = "開路電壓";
 "Orientation" = "取向";
-"P-P" = "p-p";
+"P-P" = "P-P";
 "Paused" = "Paused";
 "Peak Amplitude (V)" = "峰值振幅 (V)";
 "Phase Offset (deg)" = "相位偏移 (°)";
@@ -261,7 +261,7 @@
 "Trigger Current (A)" = "觸發電流 (A)";
 "Triggered" = "Triggered";
 "Type" = "類型";
-"Val" = "瓦爾";
+"Val" = "Val";
 "Value" = "價值";
 "Vertical" = "垂直";
 "Voltage" = "電壓";

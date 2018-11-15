@@ -20,7 +20,7 @@
 "Auto Values" = "自動値";
 "Automatic Bandwidth" = "自動帯域幅";
 "Autowire" = "自動ルート";
-"Avg" = "平均";
+"Avg" = "Avg";
 "BCD to 7-Segment Decoder" = "BCD ~ 7 セグメントデコーダ";
 "BJT Transistor" = "BJT トランジスタ";
 "BJT Transistor (NPN)" = "BJT トランジスタ (NPN)";
@@ -101,7 +101,7 @@
 "ForwardVoltage" = "ForwardVoltage";
 "Free Running Current" = "フリーランニング電流";
 "Free Running RPM" = "フリーランニング RPM";
-"Freq" = "周波数";
+"Freq" = "Freq";
 "Frequencies" = "Frequencies";
 "Frequency (Hz)" = "周波数 (Hz)";
 "Frequency Deviation (Hz)" = "周波数偏差 (Hz)";
@@ -180,7 +180,7 @@
 "Open" = "開く";
 "Open Circuit Voltage" = "開回路電圧";
 "Orientation" = "方向";
-"P-P" = "p-p";
+"P-P" = "P-P";
 "Paused" = "Paused";
 "Peak Amplitude (V)" = "ピーク振幅 (V)";
 "Phase Offset (deg)" = "位相オフセット (°)";
@@ -261,7 +261,7 @@
 "Trigger Current (A)" = "トリガ電流 (A)";
 "Triggered" = "Triggered";
 "Type" = "型";
-"Val" = "ヴァル";
+"Val" = "Val";
 "Value" = "値";
 "Vertical" = "垂直";
 "Voltage" = "電圧";
