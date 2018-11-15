@@ -4,7 +4,7 @@
 "AM" = "午前";
 "AM Antenna" = "AM アンテナ";
 "AND Gate" = "とゲート";
-"Accelerometer" = "加速 度 計";
+"Accelerometer" = "加速度計";
 "Active" = "アクティブ";
 "Add tracks by tapping signals in the meter" = "メーター内の信号をタップしてトラックを追加する";
 "Amplifier" = "アンプ";
@@ -19,7 +19,7 @@
 "Auto Duration" = "自動継続時間";
 "Auto Values" = "自動値";
 "Automatic Bandwidth" = "自動帯域幅";
-"Autowire" = "自動ルート";
+"Autowire" = "自動的にルート";
 "Avg" = "Avg";
 "BCD to 7-Segment Decoder" = "BCD ~ 7 セグメントデコーダ";
 "BJT Transistor" = "BJT トランジスタ";
@@ -28,7 +28,7 @@
 "Bandwidth (Hz)" = "帯域幅 (Hz)";
 "Beta" = "Beta";
 "Beta/hFE" = "ベータ版/hFE";
-"Bidirectional" = "双 方向";
+"Bidirectional" = "双方向";
 "Bits" = "ビット";
 "Blue" = "青";
 "Blue (%)" = "青 (%)";
