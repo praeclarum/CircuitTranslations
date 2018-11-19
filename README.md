@@ -18,19 +18,19 @@ Thank you very much for your help!
 
 ## Supported Languages
 
-| Language | ID | Status | Link |
-|--|--|--|--|
-|English|Base|✅|[Strings](Base.lproj/Localizable.strings)|
-|Japanese|ja|❗️|[Strings](ja.lproj/Localizable.strings)|
-|German|de|✅|[Strings](de.lproj/Localizable.strings)|
-|Chinese (Simplified)|zh-Hans|⚠️|[Strings](zh-Hans.lproj/Localizable.strings)|
-|Chinese (Traditional)|zh-Hant|❗️|[Strings](zh-Hant.lproj/Localizable.strings)|
-|Spanish|es|❗️|[Strings](es.lproj/Localizable.strings)|
-|Italian|it|❗️|[Strings](it.lproj/Localizable.strings)|
-|Russian|ru|✅|[Strings](ru.lproj/Localizable.strings)|
-|French|fr|✅|[Strings](fr.lproj/Localizable.strings)|
-|Portuguese (Brazil)|pt-BR|❗️|[Strings](pt-BR.lproj/Localizable.strings)|
-|Portuguese (Portugal)|pt-PT|❗️|[Strings](pt-PT.lproj/Localizable.strings)|
+| Language | ID | Status |
+|--|--|--|
+|[English](Base.lproj/Localizable.strings)|Base|✅|
+|[Japanese](ja.lproj/Localizable.strings)|ja|❗️|
+|[German](de.lproj/Localizable.strings)|de|✅|
+|[Chinese (Simplified)](zh-Hans.lproj/Localizable.strings)|zh-Hans|✅|
+|[Chinese (Traditional)](zh-Hant.lproj/Localizable.strings)|zh-Hant|❗️|
+|[Spanish](es.lproj/Localizable.strings)|es|❗️|
+|[Italian](it.lproj/Localizable.strings)|it|❗️|
+|[Russian](ru.lproj/Localizable.strings)|ru|✅|
+|[French](fr.lproj/Localizable.strings)|fr|✅|
+|[Portuguese (Brazil)](pt-BR.lproj/Localizable.strings)|pt-BR|❗️|
+|[Portuguese (Portugal)](pt-PT.lproj/Localizable.strings)|pt-PT|❗️|
 
 (Sorted by app usage.)
 
