@@ -53,7 +53,7 @@
 "Color" = "Color";
 "Colpitts Oscillator" = "Colpitts Oscillator";
 "Contributors" = "Contributors";
-"Conventional Direction" = "Conventional Direction";
+"Conventional Direction" = "Conventional";
 "Cooldown Time (s)" = "Cooldown Time (s)";
 "Counter" = "Counter";
 "Coupling Coefficient (%)" = "Coupling Coefficient (%)";
@@ -87,7 +87,7 @@
 "Duration (s)" = "Duration (s)";
 "Duty Cycle (%)" = "Duty Cycle (%)";
 "Edit" = "Edit";
-"Electron Direction" = "Electron Direction";
+"Electron Direction" = "Electron";
 "Email Support" = "Email Support";
 "Enable Anonymous Analytics" = "Enable Anonymous Analytics";
 "End" = "End";
