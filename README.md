@@ -61,9 +61,14 @@ form of titling for the language.
 
 ### Weird Words
 
-* `AM` is short for "Amplitude Modulation"
-* `Autowire` is short for "keep components connected during movement by automatically re-routing wires"
-* `Current` is electrical current
+* **AM** is short for "Amplitude Modulation"
+* **Autowire** is short for "keep components connected during movement by automatically re-routing wires"
+* **Current** is electrical current
+* **DC Rail** is often seen in the context of Operational Amplifiers. The "rail" refers to a maximum (or minimum) that the amplifier can achieve. They're DC because they are power and don't affect the signal.
+* **Fwd Voltage @ 1A** is the Forward Voltage (or Bias) of a Diode when 1A of current is traveling through it. https://en.wikipedia.org/wiki/Diode#Forward_bias
+* **Monospace** refers to a single width Font (all letters consume the same horizontal space). It's used in programming and looks like what a type writer produces.
+* **Off Resistance (Ω)** is how much resistance a Relay provides when it is in the Off state.
+* **On Resistance (Ω)** is how much resistance a Relay provides when it is in the On state.
 
 
 
