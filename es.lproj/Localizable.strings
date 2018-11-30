@@ -171,10 +171,10 @@
 "Normally-closed" = "Normalmente cerrado";
 "Normally-closed (NC)" = "Normalmente cerrado (NC)";
 "Normally-open (NO)" = "Normalmente abierto (NO)";
-"Num Inputs" = "Entradas NUM";
-"Num Primary Windings" = "Num bobinados primarios";
-"Num Secondary Windings" = "Num bobinados secundarios";
-"Num Switches" = "Switches NUM";
+"Num Inputs" = "Numero de entradas";
+"Num Primary Windings" = "Numéro de vueltas del primario";
+"Num Secondary Windings" = "Numéro de vueltas del secundario";
+"Num Switches" = "Numéro de interruptores";
 "OR Gate" = "Puerta OR";
 "Off Resistance (Ω)" = "De la resistencia (Ω)";
 "On Resistance (Ω)" = "En la resistencia (Ω)";
