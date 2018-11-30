@@ -160,8 +160,8 @@
 "Momentary" = "Momentáneo";
 "Monospace" = "Monospace";
 "Motion Capacitance (F)" = "Capacitancia del movimiento (F)";
-"NAND Gate" = "Puerta del NAND";
-"NOR Gate" = "NI puerta";
+"NAND Gate" = "Puerta NAND";
+"NOR Gate" = "Puerta NOR";
 "Name" = "Nombre";
 "No Tracks to Display" = "No hay pistas para mostrar";
 "No power (VIN)" = "Ninguna energía (VIN)";
