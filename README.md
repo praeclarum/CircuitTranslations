@@ -25,12 +25,12 @@ Thank you very much for your help!
 |[German](de.lproj/Localizable.strings)|de|✅|
 |[Chinese (Simplified)](zh-Hans.lproj/Localizable.strings)|zh-Hans|✅|
 |[Chinese (Traditional)](zh-Hant.lproj/Localizable.strings)|zh-Hant|❗️|
-|[Spanish](es.lproj/Localizable.strings)|es|❗️|
+|[Spanish](es.lproj/Localizable.strings)|es|✅|
 |[Italian](it.lproj/Localizable.strings)|it|❗️|
 |[Russian](ru.lproj/Localizable.strings)|ru|✅|
 |[French](fr.lproj/Localizable.strings)|fr|✅|
-|[Portuguese (Brazil)](pt-BR.lproj/Localizable.strings)|pt-BR|❗️|
-|[Portuguese (Portugal)](pt-PT.lproj/Localizable.strings)|pt-PT|❗️|
+|[Portuguese (Brazil)](pt-BR.lproj/Localizable.strings)|pt-BR|✅|
+|[Portuguese (Portugal)](pt-PT.lproj/Localizable.strings)|pt-PT|✅|
 
 (Sorted by app usage.)
 
