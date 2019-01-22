@@ -1,4 +1,4 @@
-﻿"AC" = "AC";
+"AC" = "AC";
 "AC Source" = "Wechselstromquelle";
 "ADC" = "ADW";
 "AM" = "MW";
@@ -109,6 +109,7 @@
 "Fuse" = "Sicherung";
 "Fwd Voltage @ 1A" = "Durchlassspannung @ 1A";
 "Gate-Cathode Resistance (Ω)" = "Gate-Kathoden-Widerstand (Ω)";
+"Gauge" = "Messgerät";
 "Gauge" = "Spur";
 "GitHub is used to coordinate the translation effort." = "GitHub wird verwendet, um den Übersetzungsaufwand zu koordinieren.";
 "Green" = "Grün";
@@ -198,7 +199,7 @@
 "Primary Inductance (H)" = "Primärinduktivität (H)";
 "Pulse" = "Impuls";
 "Quality Factor" = "Qualitätsfaktor";
-"RMS" = "Rms";
+"RMS" = "RMS";
 "Recording" = "Aufnahme";
 "Red" = "Rot";
 "Red (%)" = "Rot (%)";
@@ -215,7 +216,7 @@
 "SPST Push Switch" = "SPST-Taste";
 "SPST Switch" = "SPST-Schalter";
 "Sawtooth" = "Sägezahn";
-"Scope" = "Oszilloskop";
+"Scope" = "Diagramm";
 "Series Resistance" = "Serienwiderstand";
 "Servo Motor" = "Servomotor";
 "Settings" = "Einstellungen";
